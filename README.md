@@ -1,14 +1,14 @@
 ## search and sort algorithms
 
 
-|           C          |              C++             |      python      |   javascript   |        java        |
-|:--------------------:|:----------------------------:|:----------------:|:--------------:|:------------------:|
-|    [bfs.c][bfs-c]    | [djikstra.cpp][djikstra-cpp] | [bfs.py][bfs-py] | [bs.js][bs-js] | [bs.java][bs-java] |
-|    [dfs.c][dfs-c]    |                              | [dfs.py][dfs-py] |                |                    |
-|     [bs.c][bs-c]     |                              |                  |                |                    |
-| [bubble.c][bubble-c] |                              |                  |                |                    |
-| [select.c][select-c] |                              |                  |                |                    |
-| [insert.c][insert-c] |                              |                  |                |                    |
+|           C          |              C++             |      python      |   javascript   |        java        |      kotlin      |
+|:--------------------:|:----------------------------:|:----------------:|:--------------:|:------------------:|:----------------:|
+|    [bfs.c][bfs-c]    | [djikstra.cpp][djikstra-cpp] | [bfs.py][bfs-py] | [bs.js][bs-js] | [bs.java][bs-java] | [bsI.kt][bsI-kt] |
+|    [dfs.c][dfs-c]    |                              | [dfs.py][dfs-py] |                |                    | [bsR.kt][bsR-kt] |
+|     [bs.c][bs-c]     |                              |                  |                |                    |                  |
+| [bubble.c][bubble-c] |                              |                  |                |                    |                  |
+| [select.c][select-c] |                              |                  |                |                    |                  |
+| [insert.c][insert-c] |                              |                  |                |                    |                  |
 
 [bfs-c]:	 C/bfs.c
 [dfs-c]:	 C/dfs.c
@@ -21,4 +21,6 @@
 [dfs-py]:	 python/dfs.py
 [bs-js]:	 javascript/bs.js
 [bs-java]:	 java/bs.java
+[bsI-kt]:	 kotlin/bsI.kt
+[bsR-kt]:	 ktolin/bsR.kt
 
