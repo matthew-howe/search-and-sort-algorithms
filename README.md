@@ -16,7 +16,6 @@
 [bubble-c]:	 C/bubble.c
 [select-c]:	 C/select.c
 [insert-c]:	 C/insert.c
-[djikstra-cpp]:  C++/djikstra.cpp
 [bfs-py]:	 python/bfs.py
 [dfs-py]:	 python/dfs.py
 [bs-js]:	 javascript/bs.js
