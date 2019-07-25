@@ -4,7 +4,7 @@
 |           C          |              C++             |      python      |   javascript   |        java        |      kotlin      |
 |:--------------------:|:----------------------------:|:----------------:|:--------------:|:------------------:|:----------------:|
 |    [bfs.c][bfs-c]    | [djikstra.cpp][djikstra-cpp] | [bfs.py][bfs-py] | [bs.js][bs-js] | [bs.java][bs-java] | [bsI.kt][bsI-kt] |
-|    [dfs.c][dfs-c]    |                              | [dfs.py][dfs-py] |                |                    | [bsR.kt][bsR-kt] |
+|    [dfs.c][dfs-c]    |  [shuffle.cpp][shuffle-cpp]  | [dfs.py][dfs-py] |                |                    | [bsR.kt][bsR-kt] |
 |     [bs.c][bs-c]     |                              |                  |                |                    |                  |
 | [bubble.c][bubble-c] |                              |                  |                |                    |                  |
 | [select.c][select-c] |                              |                  |                |                    |                  |
@@ -17,6 +17,7 @@
 [select-c]:	 C/select.c
 [insert-c]:	 C/insert.c
 [djikstra-cpp]:	 C++/djikstra.cpp
+[shuffle-cdd]:	C++/shuffle.cpp
 [bfs-py]:	 python/bfs.py
 [dfs-py]:	 python/dfs.py
 [bs-js]:	 javascript/bs.js
