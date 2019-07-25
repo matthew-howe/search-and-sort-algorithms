@@ -25,7 +25,7 @@ void shuffle(vector<int>& theVector)
 		// because the stuff before has all already
 		// been placed !
 		
-		sie_t randomChoiceIndex = getRandom(indexWeAreChoosingFor,
+		size_t randomChoiceIndex = getRandom(indexWeAreChoosingFor,
 				theVector.size() - 1);
 
 		// place the random choice in spot with a swap
