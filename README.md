@@ -6,7 +6,7 @@
 |    [bfs.c][bfs-c]    | [djikstra.cpp][djikstra-cpp] | [bfs.py][bfs-py] | [bs.js][bs-js] | [bs.java][bs-java] | [bsI.kt][bsI-kt] |
 |    [dfs.c][dfs-c]    |  [shuffle.cpp][shuffle-cpp]  | [dfs.py][dfs-py] |                |                    | [bsR.kt][bsR-kt] |
 |     [bs.c][bs-c]     |  [merge.cpp][merge-cpp]      |                  |                |                    |                  |
-| [bubble.c][bubble-c] |                              |                  |                |                    |                  |
+| [bubble.c][bubble-c] |    [dfs.cpp][dfs-cpp]        |                  |                |                    |                  |
 | [select.c][select-c] |                              |                  |                |                    |                  |
 | [insert.c][insert-c] |                              |                  |                |                    |                  |
 
@@ -19,6 +19,7 @@
 [djikstra-cpp]:	 C++/djikstra.cpp
 [shuffle-cpp]:	C++/shuffle.cpp
 [merge-cpp]:	C++/mergeSort.cpp
+[dfs-cpp]:		C++/dfs.cpp
 [bfs-py]:	 python/bfs.py
 [dfs-py]:	 python/dfs.py
 [bs-js]:	 javascript/bs.js
