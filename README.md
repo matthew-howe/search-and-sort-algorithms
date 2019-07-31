@@ -18,7 +18,7 @@
 [insert-c]:	 C/insert.c
 [djikstra-cpp]:	 C++/djikstra.cpp
 [shuffle-cpp]:	C++/shuffle.cpp
-[merge-cpp]:	C++/merge.cpp
+[merge-cpp]:	C++/mergeSort.cpp
 [bfs-py]:	 python/bfs.py
 [dfs-py]:	 python/dfs.py
 [bs-js]:	 javascript/bs.js
